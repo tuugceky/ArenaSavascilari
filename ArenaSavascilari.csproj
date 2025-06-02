@@ -44,22 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AsciiArt.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Dusman.cs" />
-    <Compile Include="Ejderha.cs" />
-    <Compile Include="Goblin.cs" />
-    <Compile Include="IOzelYetenek.cs" />
     <Compile Include="Karakter.cs" />
     <Compile Include="Oyun.cs" />
     <Compile Include="Oyuncu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SkorSistemi.cs" />
-    <Compile Include="Zombi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="file1.md" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
